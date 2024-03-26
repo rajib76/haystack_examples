@@ -1,0 +1,6 @@
+haystack-ai
+python-dotenv
+openai
+langchain-community
+wikipedia
+sentence-transformers>=2.2.0
